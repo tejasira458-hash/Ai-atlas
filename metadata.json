@@ -1,0 +1,7 @@
+{
+  "name": "AI ATLAS",
+  "description": "A warm and encouraging AI tutor that explains complex topics, textbooks, and diagrams using simple 'living room language' for children of all grades.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
